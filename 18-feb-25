@@ -1,0 +1,24 @@
+### Building a **Tic-Tac-Toe** Game : Day 1 Progress
+
+Today, I started working on a Tic-Tac-Toe game using **HTML, CSS, and JavaScript**. My focus was on setting up the basic structure and styling the game board.
+
+**What I Accomplished Today**
+
+**HTML Structure :**
+* Created a 3x3 grid using a simple <div> structure.
+* Added unique IDs to each cell for easy manipulation in JavaScript.
+
+**CSS Styling :**
+* Styled the board to make it visually appealing.
+* Used flexbox to align the cells neatly.
+* Applied hover effects for a better user experience.
+
+**JavaScript Logic (Initial Work) :**
+* Grabbed all the cells using `document.querySelectorAll()`.
+* Started writing the function to handle click events.
+* Implemented a basic turn-based system (X and O).
+
+**Next Steps**
+* Add game logic to check for a **winner**.
+* Display the result when the game ends.
+* Implement a reset button.
