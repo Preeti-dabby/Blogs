@@ -1,0 +1,18 @@
+## **Diving Deeper into ES6 Classes and Modules** 
+
+Today, I explored advanced **ES6 class concepts** and got introduced to **ES6 modules**, which are essential for writing clean and scalable JavaScript code. Here’s a summary of what I learned:
+
+### **Private Properties Using WeakMaps**
+> I learned how **WeakMaps** can be used to create truly private properties in ES6 classes, ensuring data encapsulation while keeping properties inaccessible from outside the class.
+
+### **Getters and Setters**
+> I practiced using **getters and setters** to control access to object properties, allowing encapsulation and validation while retrieving or modifying values.
+
+### **Inheritance and Method Overriding in ES6 Classes**
+> I explored how **class inheritance** allows child classes to extend parent functionality and how **method overriding** enables a subclass to redefine inherited methods for custom behavior.
+
+### **Introduction to ES6 Modules**
+> I got introduced to **ES6 modules**, which help in writing **modular and maintainable** code by allowing exports and imports between different JavaScript files.
+
+### **Key Takeaway**
+> Understanding private properties, getters/setters, inheritance, method overriding, and ES6 modules has strengthened my ability to write structured and efficient JavaScript code.
